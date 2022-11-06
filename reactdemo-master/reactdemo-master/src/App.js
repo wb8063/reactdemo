@@ -5,10 +5,10 @@ function App() {
   return (
     <div className="App">
       <h1>
-        Hello React!
+        Hello Node.js!
       </h1>
       <h2>
-        Daniel DeFrance - h48c334
+        Willow Berryessa - s39j169
       </h2>
 
       <hr />
